@@ -1,3 +1,4 @@
 # IT-Tools-demo
-This is my First repositary  and Currently I'm working on IT Tools.
+This is my First repositary.
+<br>
 Author - Shabana Mullani.
